@@ -11,4 +11,4 @@ instructions_TP4/
 *.parquet
 *.xlsx
 ~$*.xlsx
-CONTEXTE_TP4_CLAUDE_CODE.md
+CONTEXTE_TP4_CLAUDE_CODE.md*.sh
